@@ -7,4 +7,4 @@ Painel de vendas: https://renangarciarosa-streamlit-dashboard-vendas-interativ-a
 
 ## Teaser
 
-![](name-of-giphy.gif)
+![Dashboard](Dash.gif)
